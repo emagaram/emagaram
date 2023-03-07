@@ -1,5 +1,5 @@
 
-<h1 align="center">Ay ay I'm Ezra</h1>
+<h1 align="center">Hey 👋 I'm Ezra</h1>
 <h3 align="center">A curious and easily-distracted full-stack web developer</h3>
 
 - 🔭 I’m currently working on [StopSpend.com](https://www.stopspend.com/)
