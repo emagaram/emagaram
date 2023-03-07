@@ -1,5 +1,5 @@
 
-<h1 align="center">Ezra Magaram - Full Stack Wizard</h1>
+<h1 align="center">Ezra 🧙‍</h1>
 <h3 align="center">A curious and passionate full-stack web developer</h3>
 
 - 🔭 I’m currently working on [StopSpend.com](https://www.stopspend.com/)
