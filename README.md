@@ -6,7 +6,13 @@
 
 - 🌱 I’m currently learning **Neovim!**
 
-- 💬 Ask me about **React⚛️ Firebase🔥**
+- 🌎 Location: South Africa for the semester!
+
+- 🤓 Neovim enthusiast
+
+- 🚀 Lover of Typescript
+
+- 💬 Ask me about **React ⚛️ or Firebase🔥**
 
 - 📫 How to reach me **magaram@usc.edu**
 
