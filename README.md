@@ -8,8 +8,6 @@
 
 - 🌎 Location: South Africa for the semester!
 
-- 🤓 Neovim enthusiast
-
 - 🚀 Lover of Typescript
 
 - 💬 Ask me about **React ⚛️ or Firebase🔥**
