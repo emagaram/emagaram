@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Neovim!**
 
-- 💬 Ask me about **React, GCP**
+- 💬 Ask me about **React⚛️ Firebase🔥**
 
 - 📫 How to reach me **magaram@usc.edu**
 
