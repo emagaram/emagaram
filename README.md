@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [StopSpend.com](https://www.stopspend.com/)
 
-- 🌱 I’m currently learning **Neovim!**
+- 🌱 I’m currently learning **Neovim** and other tools to improve my workflow (Yabai, SKHD, Vimium, tmux, etc.).
 
 - 🌎 Location: South Africa for the semester!
 
