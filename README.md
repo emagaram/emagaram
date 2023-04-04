@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [StopSpend.com](https://www.stopspend.com/)
 
-- 🌱 I’m currently learning **Neovim** and other tools to improve my workflow (Yabai, SKHD, Vimium, tmux, etc.).
+- 🌱 I’m currently learning a variety tools at once to improve my dev workflow (Warp, Neovim, Yabai, ZSH, Vimium, tmux, etc.).
 
 - 🌎 Location: South Africa for the semester!
 
