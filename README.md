@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning SwiftUI + a variety of tools to improve my dev workflow (Warp, Neovim, Yabai, ZSH, Vimium, tmux, etc.).
 
-- 🌎 Location: South Africa for the semester!
+- 🌎 Location: Los Angeles
 
 - 🚀 Lover of Typescript
 
