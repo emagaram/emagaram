@@ -10,8 +10,6 @@
 
 - 🚀 Lover of Typescript
 
-- 💬 Ask me about **React ⚛️ or Firebase🔥**
-
 - 📫 How to reach me **magaram@usc.edu**
 
 <h3 align="left">Connect with me:</h3>
