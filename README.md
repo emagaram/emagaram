@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [StopSpend.com](https://www.stopspend.com/)
 
-- 🌱 I’m currently learning Stenography!
+- 🌱 I’m currently learning Stenography ⌨️
 
 - 🌎 Location: Los Angeles
 
