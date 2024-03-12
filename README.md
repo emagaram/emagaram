@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Stenography ⌨️
 
-- 🌎 Location: Los Angeles
+- 🌎 Location: Seattle
 
 - 🚀 Lover of Typescript
 
