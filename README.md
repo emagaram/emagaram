@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [StopSpend.com](https://www.stopspend.com/)
 
-- 🌱 I’m currently learning a variety of tools to improve my dev workflow (Neovim, Yabai, ZSH, Vimium, tmux, etc.).
+- 🌱 I’m currently learning Stenography!
 
 - 🌎 Location: Los Angeles
 
