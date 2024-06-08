@@ -2,14 +2,6 @@
 <h1 align="center">Ezra 🧙‍</h1>
 <h3 align="center">A curious and passionate full-stack web developer</h3>
 
-- 🔭 I’m currently working on [StopSpend.com](https://www.stopspend.com/)
-
-- 🌱 I’m currently learning Stenography ⌨️
-
-- 🌎 Location: Seattle
-
-- 🚀 Lover of Typescript
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ezra-magaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezra-magaram" height="30" width="40" /></a>
